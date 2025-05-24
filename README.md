@@ -13,8 +13,6 @@
     <img alt="Languages Count" src="https://img.shields.io/github/languages/count/jorhelp/Ingram?style=social">
 </div>
 
-English | [简体中文](https://github.com/jorhelp/Ingram/blob/master/README.md)
-
 ## Intro
 
 This is a web camera device vulnerability scanning tool, which already supports Hikvision, Dahua and other devices
